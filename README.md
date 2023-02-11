@@ -12,6 +12,8 @@ Implementei um bug de forma proposital para mostrar a funcionalidade do excell q
 
 # Qual navegador os testes foram realizados?
 Chrome ✅
+Mozilla firefox ✅
+
 
 # Tecnologias utilizadas para criação do jogo:
 HTML5;
